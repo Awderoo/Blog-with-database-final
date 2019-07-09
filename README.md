@@ -8,7 +8,7 @@ install node.js
 
 npm init
 
-The the other modules is aredy in the jason file. like express, bode-Parser...
+The the other modules is aredy in the json file. like express, bode-Parser...
 
 run server
 
