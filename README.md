@@ -1,18 +1,20 @@
 # Blog-with-database-final
 
-need to create top_modules files
+need to create top_modules files with node.
 
-write  in command.
+download node to your system first.
 
-install node.js
+write  in command. 
 
-npm init
+$ install node
+
+$ npm init
 
 The the other modules is aredy in the json file. like express, bode-Parser...
 
 run server
 
-node app.js 
+$ node app.js 
 
 
 
